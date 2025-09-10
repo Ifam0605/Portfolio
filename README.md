@@ -8,3 +8,5 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ![preview img](/preview.png)
+## Live demo
+https://my-portfolio-ifam05.netlify.app
